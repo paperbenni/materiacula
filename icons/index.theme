@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=oomox-dracula
-Comment=Papirus icon theme
+Name=materiacula
+Comment=Papirus but it's dracula
 Inherits=breeze,gnome,hicolor
 
 Example=folder
