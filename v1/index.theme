@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Materia-dark
-Comment=A Material Design theme
+Name=materiacula
+Comment=Materia but its dracula
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
 GtkTheme=Materia-dark
 MetacityTheme=Materia-dark
-IconTheme=Adwaita
+IconTheme=materiacula
 CursorTheme=Adwaita
 CursorSize=24
